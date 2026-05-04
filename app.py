@@ -16,6 +16,7 @@ while True:
         print("🎉 Вы угадали!")
         break
     else:
+        vless://b4e38453-3159-4e54-b2d6-676432ee1791@72.56.8.98:8443?type=tcp&security=reality&fp=chrome&pbk=mPeKpn3rxeJr6MKKNXm76l7c0q2N9D8ttXYPupFPfHs&sni=www.yandex.ru&sid=65&spx=/&flow=xtls-rprx-vision#Нидерланды-6 🇳🇱
         print("Нет! Попробуйте снова.")
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZGRiYmQ1My04OWE2LTQ2NDYtOGNlNC02ZThkZDRlMmFmZDk@144.31.50.250:57644?type=tcp#C%D0%A8%D0%90-6ss%20%F0%9F%87%BA%F0%9F%87%B8
 vless://443971e8-2620-4018-8988-75f5601dc02b@144.31.107.38:443?type=tcp&security=reality&fp=chrome&pbk=GM5JkBsl-MJBb0KAyzi96-AV3UCRY1kLFh-Os5qml2Q&sni=yandex.ru&sid=fa&spx=/&flow=xtls-rprx-vision#Бельгия-6 🇧🇪
